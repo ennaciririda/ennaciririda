@@ -8,4 +8,5 @@
   - DUT (Technical University Degree) in computer engineering in EST AGADIR.
   - Bachelor's degree in mathematical science.
 ## 💻 **Skills**:
-  - **Languages**: C, C++, Python, JavaScript, HTML, CSS
+  - **Languages** :  C, C++, Python, JavaScript, HTML, CSS
+  - **Frameworks**:  React(library), Laravel, Django
