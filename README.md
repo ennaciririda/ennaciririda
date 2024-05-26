@@ -13,6 +13,7 @@
   - **Tools**     :  Git, GitHub, VS Code
 ## Projects
   ### [FT_TRANSCENDENCE](https://github.com/ennaciririda/FT_TRANSCENDENCE) (Working On it)
+  Transcendence" is a project at 42 school focusing on web development and Single Page Application (SPA) creation. Its aim is to build a web app for playing Pong while also offering social features for interacting with other users.
   ### [CUB3D](https://github.com/ennaciririda/cub3d)
   This project draws inspiration from the iconic Wolfenstein 3D game, the pioneering first-person shooter (FPS). It will allow you to delve into ray-casting techniques. Your objective is to create a dynamic view within a maze, navigating through it to find your way.
   ### [FT_IRC](https://github.com/ennaciririda/ft_irc)
