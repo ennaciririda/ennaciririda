@@ -1,7 +1,7 @@
 # Hello, I'm [RIDA ENNACIRI]!
 
 ### Welcome to my GitHub profile! I'm a passionate student at 1337, where I'm diving deep into the world of programming languages and web development. Here's a bit about me and what I'm working on:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ennaciririda)](https://github.com/anuraghazra/github-readme-stats) [![rennacir's 42 stats](https://badge.mediaplus.ma/darkblue/rennacir)](https://github.com/oakoudad/badge42)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ennaciririda)](https://github.com/anuraghazra/github-readme-stats) [![<rennacir>'s 42 stats](https://badge.mediaplus.ma/<darkblue>/<rennacir>)](https://github.com/oakoudad/badge42)
 ## About me
 ### 🎓 **Education**:
   - Currently studying at 1337, focusing on programming and web development.
