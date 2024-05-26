@@ -28,6 +28,7 @@
   ### [INCEPTION](https://github.com/ennaciririda/Inception) (Working On it)
   This project, a component of the 42 school curriculum, aims to improve your grasp of system administration using Docker.
 ## Contact me
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rida-ennaciri-89782b19a/)
 - [LinkedIn](https://www.linkedin.com/in/rida-ennaciri-89782b19a/)
 - [Email](ennaciririda.professional@gmail.com)
 - [Twitter](https://x.com/EnnaciriRida)
