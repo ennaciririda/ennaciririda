@@ -10,3 +10,4 @@
 ## 💻 **Skills**:
   - **Languages** :  C, C++, Python, JavaScript, HTML, CSS
   - **Frameworks**:  React(library), Laravel, Django
+  - **Tools**     :  Git, GitHub, VS Code
