@@ -12,5 +12,5 @@
   - **Frameworks** :  React(library), Laravel, Django
   - **Tools**     :  Git, GitHub, VS Code
 ## Projects
-  ### CUB3D
+  ### [CUB3D](https://www.google.com/)
   This project draws inspiration from the iconic Wolfenstein 3D game, the pioneering first-person shooter (FPS). It will allow you to delve into ray-casting techniques. Your objective is to create a dynamic view within a maze, navigating through it to find your way.
