@@ -27,3 +27,5 @@
   This project involves developing your own Internet Relay Chat (IRC) server using C++. You will undertake the task of implementing a fully functional IRC server from scratch, focusing on core functionalities such as handling client connections, managing multiple chat channels, and facilitating real-time communication between users. 
   ### [INCEPTION](https://github.com/ennaciririda/Inception) (Working On it)
   This project, a component of the 42 school curriculum, aims to improve your grasp of system administration using Docker.
+## Contact me
+- **[LinkedIn](https://www.linkedin.com/in/rida-ennaciri-89782b19a/)
