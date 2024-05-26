@@ -10,7 +10,7 @@
   - Bachelor's degree in mathematical science.
 ### 💻 **Skills**:
   - **Languages** :  C, C++, Python, JavaScript, HTML, CSS
-  - **Frameworks** : ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  React(library), Laravel, Django
+  - **Frameworks** : ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
   - **Tools**     :  Git, GitHub, VS Code
 ## Projects
   ### [FT_TRANSCENDENCE](https://github.com/ennaciririda/FT_TRANSCENDENCE) (Working On it)
