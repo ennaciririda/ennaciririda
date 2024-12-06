@@ -28,5 +28,5 @@
   This project draws inspiration from the iconic Wolfenstein 3D game, the pioneering first-person shooter (FPS). It will allow you to delve into ray-casting techniques. Your objective is to create a dynamic view within a maze, navigating through it to find your way.
   ### [FT_IRC](https://github.com/ennaciririda/ft_irc)
   This project involves developing your own Internet Relay Chat (IRC) server using C++. You will undertake the task of implementing a fully functional IRC server from scratch, focusing on core functionalities such as handling client connections, managing multiple chat channels, and facilitating real-time communication between users. 
-  ### [INCEPTION](https://github.com/ennaciririda/Inception) (Working On it)
+  ### [INCEPTION](https://github.com/ennaciririda/Inception)
   This project, a component of the 42 school curriculum, aims to improve your grasp of system administration using Docker.
