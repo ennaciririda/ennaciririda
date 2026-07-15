@@ -22,6 +22,12 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/dark/rennacir" alt="42 stats"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/rida-ennaciri-89782b19a/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -140,11 +146,6 @@ System administration project using Docker to containerize a multi-service infra
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/dark/rennacir" alt="42 stats"/>
-  </a>
-</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=ennaciririda&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
