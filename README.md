@@ -37,7 +37,7 @@
 - 🔭 Building **Music Room** — a real-time collaborative music platform (Node/Express, TypeScript, Socket.IO, Prisma + PostgreSQL, React Native/Expo)
 - 🌱 Sharpening skills in **Kubernetes, distributed systems, and OAuth/JWT auth flows**
 - 💼 Open to **full stack internships / paid pre-employment programs**
-- ✍️ Documenting what I build — check my [portfolio](#) *(add link)*
+- ✍️ Documenting what I build — check my [portfolio](#ennaciririda.tech)
 
 ---
 
